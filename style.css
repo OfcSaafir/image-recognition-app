@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+button{
+    background-color: #0077ff;
+    color: white;
+    border: 50px;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+button:hover{
+    background-color: #0c65ca;
+    animation-delay: 10ms;
+}
+#camera{
+    justify-content: center;
+    width: 350px;
+    height: 250px;
+    border: 250px dashed ;
+}
